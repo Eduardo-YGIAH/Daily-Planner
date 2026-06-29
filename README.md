@@ -29,3 +29,5 @@ In this readme file, I will also describe the technologies and aproaches taken w
 - [Unsplash API](https://unsplash.com/developers) to generate a new background image based on the current weather
 
 - [Google Places API](https://developers.google.com/places/web-service/intro) to display an interactive map and an autocomplete form showing places and addresses in respect to the displayed map bounderies.
+
+Under quarantine until 15 July 2026, then will be deleted. Remove this line before specified date to prevent deletion.
